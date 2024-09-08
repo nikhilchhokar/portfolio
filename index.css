@@ -1,0 +1,44 @@
+.lead{
+    font-size: 2.5rem
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 5rem;
+    color: white;
+}
+h2{
+    font-size: 2rem;
+}
+body{
+    background-color: gainsboro;
+}
+p{
+    font-size: 1.5rem;
+    
+    position: relative;
+}
+.email-button 
+{
+display: inline-block;
+
+padding: 10px 20px;
+
+background-color: #007bff;
+
+color: #fff;
+
+text-decoration: none;
+
+border-radius: 5px;
+
+font-weight: bold;
+
+transition: background-color 0.3s ease;
+}
+
+
+.email-button:hover 
+{
+background-color: #0056b3;
+}
+
