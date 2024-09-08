@@ -42,3 +42,11 @@ transition: background-color 0.3s ease;
 background-color: #0056b3;
 }
 
+.container{
+    justify-content: center;
+    display: block;
+}
+.img{
+    display: grid;
+    grid-template: auto;
+}
